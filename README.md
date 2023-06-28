@@ -14,8 +14,8 @@ General task is to create mobile application with contact page using Flutter/Dar
 * Form should contain validation for email field (email field should contain valid email address)
 * Send button should be disabled until all fields are filled and valid
 * Send button should be switched to "please wait" mode on click and enabled again after response from the server
-* Form should show error message if server response is not 200
-* Form should show success message if server response is 200
+* Form should show error message if server response is not 201
+* Form should show success message if server response is 201
 
 ![Screenshot_20230626_210248.png](Screenshot_20230626_210248.png)
 
